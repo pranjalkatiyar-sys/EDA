@@ -1,2 +1,2 @@
 # EDA
-EDA on haberman data set
+Exploratory data analysis on Haberman Dataset
